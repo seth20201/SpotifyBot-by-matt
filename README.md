@@ -43,6 +43,7 @@ Use all commands without <> it's only as example
 Informations
 
 This bot use this capture format.
+
 User:Pass:Country:ZipCode:City:Address
 
 This is basic Spotify Upgrade Bot, you can use it for your upgrade service.
