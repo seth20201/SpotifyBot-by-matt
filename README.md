@@ -12,6 +12,7 @@ and under "Token" click on "Copy"
 
 
 Setting up Bot
+
 1 - Open config.json.
 2 - Paste values into json config (Like token etc..)
 Token - Token of your bot 
@@ -26,6 +27,7 @@ StockChannel - Channel where users can check stocks
 
 
 Commands
+
 Use all commands without <> it's only as example
 !help - Use this command to check all available commands
 !help command - Use this command to check help for specific command.
@@ -39,8 +41,10 @@ Use all commands without <> it's only as example
 
 
 Informations
+
 This bot use this capture format.
 User:Pass:Country:ZipCode:City:Address
+
 This is basic Spotify Upgrade Bot, you can use it for your upgrade service.
 However, as it's open source under GPL (General Public License), you should
 and have to share any update you made to code for free.
