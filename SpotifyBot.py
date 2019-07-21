@@ -31,6 +31,7 @@ client = discord.Client()
 #Even when bot is turned on.
 @bot.event
 async def on_ready():
+    await bot.change_presence(activity=discord.Game(f'Coded by matt {data["Prefix"]}help for help'))
     #Print out text and bot name into console.
     print("  _____             _   _  __         ____        _     _           ")
     print(" / ____|           | | (_)/ _|       |  _ \      | |   | |          ")

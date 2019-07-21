@@ -1,7 +1,7 @@
 {
-  "Token": "TOKENHERE",
-  "Prefix": "PREFIXHERE",
-  "Channel": "UPGRADECHANNELHERE",
-  "AdministratorRole": "ADMINISTRATORROLENAMEHERE",
-  "StockChannel": "CHECKSTOCKCHANNELHERE"
+  "Token": "Paste token here",
+  "Prefix": "Prefix you want to use for bot",
+  "Channel": "Channel where you want users to upgrade their accounts",
+  "AdministratorRole": "Administrator role that will have access to all commands",
+  "StockChannel": "Channel where users can check stocks"
 }
