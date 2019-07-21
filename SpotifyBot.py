@@ -194,6 +194,8 @@ async def redeem(ctx, country: str, email: str, code: str):
 
                         postLoginJson = await postLogin.json()
 
+                        print(postLoginJson)
+
                         if 'displayName' in postLoginJson: #If displayName is in source code, then we've successfully logged in.
 
                             url = "https://www.spotify.com/us/account/overview/"
